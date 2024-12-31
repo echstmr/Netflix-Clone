@@ -1,0 +1,29 @@
+{ 
+
+    "Navbar":{
+    "logo": "/img/logo.png",
+    "alt": "Brand Logo",
+    "language1": "English", 
+    "language2": "Tagalog"
+    },
+
+    "Hero":{
+     "title": "The biggest Pinoy hits. Ready to watch here for only ₱149.",
+     "subtitle1" : "Join today. Cancel anytime", 
+     "subtitle2" : "Ready to watch? Enter your email to create or restart your membership."     
+    },
+
+    "About":{
+        
+        "title": "Enjoy on your TV.",
+        "subtitle" : "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+
+        "title2": "Download your shows to watch offline",
+        "subtitle2" : "Save your favourites easily and always have something to watch.",
+
+        "title3": "Watch everywhere",
+        "subtitle3" : "Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV."
+    }
+
+
+}
